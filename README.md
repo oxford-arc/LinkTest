@@ -13,4 +13,4 @@ LinkTest command linke used will be
 
      mpilinktest -i 60 -I 16 -k 4096 -S 1 
 
-The results will be used to confirm that communication, especially within the islands, is of uniform latency and acceptable latency and bandwitdth.
+The results will be used to confirm that communication, especially within the islands, is of uniform latency and acceptable latency and bandwidth.
